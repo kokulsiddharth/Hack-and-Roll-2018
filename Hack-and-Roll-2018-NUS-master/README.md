@@ -11,7 +11,7 @@ our rooms get wet and at times filled with water.
 	1) React Native App
 	2) Arduino Programming
 	3) Bluetooth Connection 
-* I was soley incharge of the react native app programming and also helped out in Arduino Programming too.
+* Incharge of electrical systems and helped out in Arduino Programming too.
 
 **React Native**
 * The app communicates with *arduino* via the use of *HC-05* bluetooh module on the arduino and the Android Native App. 
